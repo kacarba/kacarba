@@ -1,4 +1,4 @@
-[![MasterHead](https://hizliresim.com/gdr8li1)
+![Screenshot_2](https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6)
 <h1 align="center">Hi 👋, I'm Burak Alper</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
