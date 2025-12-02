@@ -1,4 +1,4 @@
-![Screenshot_2](https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6)
+[![MasterHead](https://img.tamindir.com/resize/1200x675/2024/10/476742/ip-adresi-ogrenmek.jpg)
 <h1 align="center">Hi 👋, I'm Burak Alper</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
